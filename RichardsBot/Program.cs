@@ -13,7 +13,7 @@ namespace RichardsBot
         {
             var discordClient = new DiscordClient(new DiscordConfiguration
             {
-                Token = "ODMyMjI2NzkxODU5MDI3OTY4.YHgtmQ.mP4U08CW3tpoF5EAOh58p32zlQw",
+                Token = "NOT MY REAL TOKEN",
                 TokenType = TokenType.Bot
             });
 
